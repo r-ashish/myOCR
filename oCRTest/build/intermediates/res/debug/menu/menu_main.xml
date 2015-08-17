@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.android.ashish.release.myOCR.MainActivity">
+    <item android:title="Settings"></item>
+</menu>
+<!-- From: file:/C:/Users/Ashish/AndroidStudioProjects/android1/oCRTest/src/main/res/menu/menu_main.xml -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\libs\jtar-1.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\build\intermediates\pre-dexed\debug\jtar-1.0.4-f5c1f10755dcf9281fd1a46321190fdcc447d15b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\build\intermediates\pre-dexed\debug\json_simple-1.1-9dce5123629d9aa6d14dea9248e4a92dbc1764a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\libs\google-api-translate-java-0.98-mod2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\build\intermediates\pre-dexed\debug\google-api-translate-java-0.98-mod2-a76b025f8dff6a8164703fba4d9185c6a9a1ed58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\libs\microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\build\intermediates\pre-dexed\debug\microsoft-translator-java-api-0.6-mod-f9e3cb5b28f449fe454b7929ae0e90b3a46118c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\build\intermediates\exploded-aar\android1.libraries\tess-two\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99ef4cbdb81230eabbfb7a5f8db6cac50c98389c">
+        <dex dex="C:\Users\Ashish\AndroidStudioProjects\android1\oCRTest\build\intermediates\pre-dexed\debug\classes-64394eefa66efc9f0dbf3e206aa7af52ce2374f3.jar" />
+    </item>
+
+</items>
